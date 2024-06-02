@@ -52,5 +52,6 @@ Mkfile.old
 dkms.conf
 .idea/
 cmake-build-debug/
-CMakeLists.txt
 main.c
+CMakeLists.txt
+cmake-build-debug
