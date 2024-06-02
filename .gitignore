@@ -53,5 +53,5 @@ dkms.conf
 .idea/
 cmake-build-debug/
 main.c
-CMakeLists.txt
+/CMakeLists.txt
 cmake-build-debug
