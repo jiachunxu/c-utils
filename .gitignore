@@ -1,7 +1,7 @@
 
 dkms.conf
 .idea/
-cmake-build-debug/*
+cmake-build-debug/**
 /main.c
 /CMakeLists.txt
 CMakeLists.txt
